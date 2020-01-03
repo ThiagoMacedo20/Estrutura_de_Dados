@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1574972339 source:c:\program files\estrutura de dados\hash\main.cpp
-	<iostream>
-	"hashtable.h"
-
-1574972226 c:\program files\estrutura de dados\hash\hashtable.h
-
